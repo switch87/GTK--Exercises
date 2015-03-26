@@ -1,0 +1,6 @@
+/home/gp/workspace/cSharp/GTK-Sharp-oefenmap/GTK-Sharp-oefenmap/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gp/workspace/cSharp/GTK-Sharp-oefenmap/GTK-Sharp-oefenmap/obj/x86/Debug/GTKSharpoefenmap.gtk-gui.gui.stetic
+/home/gp/workspace/cSharp/GTK-Sharp-oefenmap/GTK-Sharp-oefenmap/bin/Debug/GTK-Sharp-oefenmap.exe.mdb
+/home/gp/workspace/cSharp/GTK-Sharp-oefenmap/GTK-Sharp-oefenmap/bin/Debug/GTK-Sharp-oefenmap.exe
+/home/gp/workspace/cSharp/GTK-Sharp-oefenmap/GTK-Sharp-oefenmap/obj/x86/Debug/GTK-Sharp-oefenmap.exe
+/home/gp/workspace/cSharp/GTK-Sharp-oefenmap/GTK-Sharp-oefenmap/obj/x86/Debug/GTK-Sharp-oefenmap.exe.mdb
